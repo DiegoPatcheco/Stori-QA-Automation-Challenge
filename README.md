@@ -13,4 +13,4 @@ Automation challenge written in Python using Selenium framework with Unittest fo
 ### How to execute
 1. Open the .py file on any IDE you want
 2. Simply run the code
-3. Wait until all tests are done
+3. Wait until all test executions are done
