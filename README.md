@@ -1,5 +1,5 @@
 # Stori-QA-Automation-Challenge
-Automation challenge written in Python using Selenium framework for purposes of skills demonstration.
+Automation challenge written in Python using Selenium framework with Unittest for purposes of skills demonstration.
 
 ### Prerequisites
 * **Python 3.7.4** installed
