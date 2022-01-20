@@ -9,3 +9,8 @@ Automation challenge written in Python using Selenium framework for purposes of 
 ### Implemented browser
 * Chrome (default) `driver = webdriver.Chrome(options=chrome_options)`
 * Chrome Headless `chrome_options.add_argument("headless")`
+
+### How to execute
+1. Open the .py file on any IDE you want
+2. Simply run the code
+3. Wait until all tests are done
